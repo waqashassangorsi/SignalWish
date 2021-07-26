@@ -1,0 +1,1 @@
+a:4:{i:0;s:38:"api.wordpress.org:80:api.wordpress.org";i:1;s:39:"api.wordpress.org:443:api.wordpress.org";i:2;s:50:"downloads.wordpress.org:80:downloads.wordpress.org";i:3;s:51:"downloads.wordpress.org:443:downloads.wordpress.org";}

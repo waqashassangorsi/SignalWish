@@ -1,0 +1,130 @@
+
+Inserted - Post 60 - cartflows_flow - Organic Store Checkout
+Inserted - Post 61 - cartflows_step - Organic Store Checkout
+Inserted - Post 70 - cartflows_step - Thank You Page
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/465/wxr.xml
+Inserted - Term 24 - {"term_id":24,"name":"Groceries","slug":"groceries","term_group":0,"term_taxonomy_id":24,"taxonomy":"product_cat","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 25 - {"term_id":25,"name":"Juice","slug":"juice","term_group":0,"term_taxonomy_id":25,"taxonomy":"product_cat","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 26 - {"term_id":26,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":26,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 27 - {"term_id":27,"name":"section","slug":"section","term_group":0,"term_taxonomy_id":27,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 1754 - attachment - product11-free-img
+Inserted - Post 1769 - attachment - leaf-free-img
+Inserted - Post 1775 - attachment - product13-free-img
+Inserted - Post 1785 - attachment - product17-free-img
+Inserted - Post 1793 - attachment - product20-free-img
+Inserted - Post 1794 - attachment - product19-free-img
+Inserted - Post 1795 - attachment - product21-free-img
+Inserted - Post 1816 - attachment - product23-free-img
+Inserted - Post 1817 - attachment - product24-free-img
+Inserted - Post 1818 - attachment - product25-free-img
+Inserted - Post 1831 - attachment - logo01-free-img
+Inserted - Post 1835 - attachment - logo02-free-img
+Inserted - Post 1839 - attachment - logo03-free-img
+Inserted - Post 1851 - attachment - logo04-free-img
+Inserted - Post 1853 - attachment - logo05-free-img
+Inserted - Post 1855 - attachment - app-store
+Inserted - Post 1857 - attachment - play-store
+Inserted - Post 1895 - attachment - sydney-rae-668606-unsplash
+Inserted - Post 2032 - attachment - organic-badge-freeimg
+Inserted - Post 2061 - attachment - farming04-free-img
+Inserted - Post 2064 - attachment - farming03-free-img
+Inserted - Post 2112 - attachment - leaves-free-img
+Inserted - Post 2137 - attachment - logo-leaf2-free-img
+Inserted - Post 2205 - attachment - product26-free-img
+Inserted - Post 2207 - attachment - product27-free-img
+Inserted - Post 2210 - attachment - product29-free-img
+Inserted - Post 2234 - attachment - organic-favicon-free-img
+Inserted - Post 2465 - attachment - organic-store-yoast-img
+Inserted - Post 2470 - attachment - organic-store-logo5
+Inserted - Post 2478 - attachment - organic-store-white-logo
+Inserted - Post 2504 - attachment - orange_juice_free-img
+Inserted - Post 2505 - attachment - honey-jar-free-img
+Inserted - Post 2515 - attachment - client02-free-img
+Inserted - Post 2516 - attachment - client01-free-img
+Inserted - Post 2518 - attachment - logo-leaf-new
+Inserted - Post 3007 - attachment - banner-01
+Inserted - Post 3009 - attachment - image-01
+Inserted - Post 3010 - attachment - image-02
+Inserted - Post 3040 - attachment - organic-products
+Inserted - Post 3044 - attachment - pumpkin-pulp-tin
+Inserted - Post 7 - custom_css - astra
+Inserted - Post 3045 - custom_css - astra
+Inserted - Post 3046 - custom_css - astra
+Inserted - Post 95 - page - Home
+Inserted - Post 96 - page - About
+Inserted - Post 337 - nav_menu_item - 
+Inserted - Post 343 - nav_menu_item - 
+Inserted - Post 344 - nav_menu_item - 
+Inserted - Post 406 - nav_menu_item - All Products
+Inserted - Post 470 - nav_menu_item - Account
+Inserted - Post 471 - nav_menu_item - 
+Inserted - Post 472 - nav_menu_item - 
+Inserted - Post 985 - custom_css - astra
+Inserted - Post 1461 - custom_css - astra
+Inserted - Post 2530 - elementor-hf - Footer
+Inserted - Post 3049 - elementor_library - Default Kit
+Inserted - Post 3068 - attachment - woocommerce-placeholder
+Inserted - Post 3190 - elementor_library - About Us
+Inserted - Post 3193 - elementor_library - Contact
+Inserted - Post 3196 - elementor_library - Home
+Inserted - Post 15 - page - Contact
+Inserted - Post 97 - page - Cart
+Inserted - Post 98 - page - Checkout
+Inserted - Post 99 - page - My account
+Inserted - Post 157 - product - Rich Organic Tea
+Inserted - Post 160 - product - Organic Pigeon Peas
+Inserted - Post 161 - product - Kidney Beans Organic
+Inserted - Post 167 - product - Black Lentils
+Inserted - Post 168 - product - Assorted Coffee
+Inserted - Post 170 - product - Natural Extracted Olive Oil
+Inserted - Post 171 - product - Fresh Organic Honey
+Inserted - Post 174 - product - Fresh Aloe Vera Juice
+Inserted - Post 241 - product - Organic Lentils
+Inserted - Post 242 - product - Fresh Orange Juice
+Inserted - Post 243 - product - Assorted Dry Fruits
+Inserted - Post 245 - product - Organic Handpicked Coffee
+Inserted - Post 401 - page - Shop
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":{"20":{"term_id":20,"name":"Uncategorized","slug":"uncategorized","description":""},"43":{"term_id":43,"name":"Groceries","slug":"groceries","description":""},"44":{"term_id":44,"name":"Juice","slug":"juice","description":""}},"woocommerce_product_cat":[{"slug":"uncategorized","thumbnail_id":"","thumbnail_src":""},{"slug":"groceries","thumbnail_id":"","thumbnail_src":""},{"slug":"juice","thumbnail_id":"","thumbnail_src":""}],"custom_logo":"https:\/\/websitedemos.net\/organic-shop-02\/wp-content\/uploads\/sites\/465\/2019\/06\/organic-store-logo5.svg","nav_menu_locations":{"primary":"main-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"elementor_container_width":"1200","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#eff7f9","2":"#f8f6f3","3":"#7a7a7a","4":"#8bc34a","5":"#001524","6":"#7baf42","7":"#333333","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"15","elementor_stretched_section_container":"","elementor_load_fa4_shim":"yes","elementor_active_kit":"3049","woocommerce_shop_page_title":"Shop","woocommerce_cart_page_title":"Cart","woocommerce_checkout_page_title":"Checkout","woocommerce_myaccount_page_title":"My account","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":"yes","woocommerce_enable_checkout_login_reminder":"no","woocommerce_enable_signup_and_login_from_checkout":"no","woocommerce_enable_myaccount_registration":"no","woocommerce_registration_generate_username":"no","wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Inserted - Post 3197 - attachment - organic-store-logo5
+Complete 
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'Learners First' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Page - for Gutenberg ---- "401"
+---- Processing WordPress Page - for Gutenberg ---- "99"
+---- Processing WordPress Page - for Gutenberg ---- "98"
+---- Processing WordPress Page - for Gutenberg ---- "98"
+---- Processing WordPress Page - for Gutenberg ---- "97"
+---- Processing WordPress Page - for Gutenberg ---- "97"
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing WordPress Page - for Elementor ---- "70"
+---- Processing WordPress Page - for Elementor ---- "61"
+---- Processing WordPress Page - for Elementor ---- "61"
+---- Processing WordPress Page - for Elementor ---- "3196"
+---- Processing WordPress Page - for Elementor ---- "3193"
+---- Processing WordPress Page - for Elementor ---- "3193"
+---- Processing WordPress Page - for Elementor ---- "3190"
+---- Processing WordPress Page - for Elementor ---- "3190"
+---- Processing WordPress Page - for Elementor ---- "2530"
+---- Processing WordPress Page - for Elementor ---- "15"
+---- Processing WordPress Page - for Elementor ---- "96"
+---- Processing WordPress Page - for Elementor ---- "95"
+---- Processing WordPress Page - for Elementor ---- "2530"
+---- Processing WordPress Page - for Elementor ---- "15"
+---- Processing WordPress Page - for Elementor ---- "96"
+---- Processing WordPress Page - for Elementor ---- "95"
+---- Processing Mapping - for Astra Pro ----
+---- Processing MISC ----
+Post ID: 13
+Post ID: 472
+Post ID: 471
+Post ID: 470
+Post ID: 406
+Post ID: 343
+Post ID: 344
+Post ID: 337
+Batch Process Complete!

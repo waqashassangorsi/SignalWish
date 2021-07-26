@@ -1,0 +1,1749 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: English Version Example\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: MemberMouse <support@membermouse.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "test"
+msgstr "test"
+
+msgid "MemberMouse"
+msgstr "MemberMouse"
+
+msgid "Manage Members"
+msgstr "Manage Members"
+
+msgid "Browse Transactions"
+msgstr "Browse Transactions"
+
+msgid "Product Settings"
+msgstr "Product Settings"
+
+msgid "Checkout Settings"
+msgstr "Checkout Settings"
+
+msgid "Payment Settings"
+msgstr "Payment Settings"
+
+msgid "Email Settings"
+msgstr "Email Settings"
+
+msgid "Affiliate Settings"
+msgstr "Affiliate Settings"
+
+msgid "Developer Tools"
+msgstr "Developer Tools"
+
+msgid "Webforms"
+msgstr "Webforms"
+
+msgid "Logs"
+msgstr "Logs"
+
+msgid "General Settings"
+msgstr "General Settings"
+
+msgid "Reporting Suite"
+msgstr "Reporting Suite"
+
+msgid "Member Count"
+msgstr "Member Count"
+
+msgid "Please select your state"
+msgstr "Please select your state"
+
+msgid "Membership Sales"
+msgstr "Membership Sales"
+
+msgid "Product Sales"
+msgstr "Product Sales"
+
+msgid "Customer Value"
+msgstr "Customer Value"
+
+msgid "Quick Average"
+msgstr "Quick Average"
+
+msgid "Compare Levels"
+msgstr "Compare Levels"
+
+msgid "Payment Service"
+msgstr "Payment Service"
+
+msgid "Channel Sales"
+msgstr "Channel Sales"
+
+msgid "Advanced Reports"
+msgstr "Advanced Reports"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Order #"
+msgstr "Order #"
+
+msgid "Amount"
+msgstr "Amount"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Affiliate"
+msgstr "Affiliate"
+
+msgid "Sub-Affiliate"
+msgstr "Sub-Affiliate"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Account Sharing Protection"
+msgstr "Account Sharing Protection"
+
+msgid "Enable account sharing protection"
+msgstr "Enable account sharing protection"
+
+msgid "Max IP Addresses Allowed in 24-Hour Period"
+msgstr "Max IP Addresses Allowed in 24-Hour Period"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Member"
+msgstr "Member"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "IP Address"
+msgstr "IP Address"
+
+msgid "Affiliate ID"
+msgstr "Affiliate ID"
+
+msgid "Sub-affiliate ID"
+msgstr "Sub-affiliate ID"
+
+msgid "Commission Request Data"
+msgstr "Commission Request Data"
+
+msgid "Order Number"
+msgstr "Order Number"
+
+msgid "Order Total"
+msgstr "Order Total"
+
+msgid "Coupon Code"
+msgstr "Coupon Code"
+
+msgid "Request Sent to"
+msgstr "Request Sent to"
+
+msgid "Affiliate Account Creation Request Details"
+msgstr "Affiliate Account Creation Request Details"
+
+msgid "This is the request that was sent to %s to create an affiliate account"
+msgstr "This is the request that was sent to %s to create an affiliate account"
+
+msgid "Unknown Bundle"
+msgstr "Unknown Bundle"
+
+msgid "To"
+msgstr "To"
+
+msgid "Cc"
+msgstr "Cc"
+
+msgid "From"
+msgstr "From"
+
+msgid "Subject"
+msgstr "Subject"
+
+msgid "No activity found."
+msgstr "No activity found."
+
+msgid "Event Type"
+msgstr "Event Type"
+
+msgid "Member ID"
+msgstr "Member ID"
+
+msgid "Show Events"
+msgstr "Show Events"
+
+msgid "Reset Form"
+msgstr "Reset Form"
+
+msgid "Activity Log Settings"
+msgstr "Activity Log Settings"
+
+msgid "Learn more"
+msgstr "Learn more"
+
+msgid "Enable activity log cleanup"
+msgstr "Enable activity log cleanup"
+
+msgid "Delete activity log entries older than %s days"
+msgstr "Delete activity log entries older than %s days"
+
+msgid "Select Provider"
+msgstr "Select Provider"
+
+msgid "Save Settings"
+msgstr "Save Settings"
+
+msgid "Affiliate Keyword"
+msgstr "Affiliate Keyword"
+
+msgid "Affiliate Keyword Aliases"
+msgstr "Affiliate Keyword Aliases"
+
+msgid "separate multiple aliases with commas"
+msgstr "separate multiple aliases with commas"
+
+msgid "Sub-Affiliate Keyword"
+msgstr "Sub-Affiliate Keyword"
+
+msgid "Sub-Affiliate Keyword Aliases"
+msgstr "Sub-Affiliate Keyword Aliases"
+
+msgid "Lifespan"
+msgstr "Lifespan"
+
+msgid "days"
+msgstr "days"
+
+msgid "Settings saved successfully"
+msgstr "Settings saved successfully"
+
+msgid "Allow Logged Out Purchases"
+msgstr "Allow Logged Out Purchases"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Inactive"
+msgstr "Inactive"
+
+msgid "API Key"
+msgstr "API Key"
+
+msgid "Generate"
+msgstr "Generate"
+
+msgid "API Password"
+msgstr "API Password"
+
+msgid "Save API Credentials"
+msgstr "Save API Credentials"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Key"
+msgstr "Key"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "No API credentials found."
+msgstr "No API credentials found."
+
+msgid "API URLs"
+msgstr "API URLs"
+
+msgid "Standard URL"
+msgstr "Standard URL"
+
+msgid "Secure URL"
+msgstr "Secure URL"
+
+msgid "Create API Credentials"
+msgstr "Create API Credentials"
+
+msgid "This feature is not available on your current plan."
+msgstr "This feature is not available on your current plan."
+
+msgid "This bundle is being used by members so some properties have been locked to avoid accidental editing. "
+msgstr "This bundle is being used by members so some properties have been locked to avoid accidental editing. "
+
+msgid "that any changes made to locked properties will be applied to all members who currently have this bundle."
+msgstr "that any changes made to locked properties will be applied to all members who currently have this bundle."
+
+msgid "InActive"
+msgstr "InActive"
+
+msgid "Bundle Type"
+msgstr "Bundle Type"
+
+msgid "Free"
+msgstr "Free"
+
+msgid "Paid"
+msgstr "Paid"
+
+msgid "Paid bundles can have multiple products associated with them which allows you to offer different pricing for the same bundle Select one or more products below to associate with this bundle."
+msgstr "Paid bundles can have multiple products associated with them which allows you to offer different pricing for the same bundle Select one or more products below to associate with this bundle."
+
+msgid "Select Multiple Products"
+msgstr "Select Multiple Products"
+
+msgid "No products available"
+msgstr "No products available"
+
+msgid "You must %s create a new product %s in order to associate it with this bundle"
+msgstr "You must %s create a new product %s in order to associate it with this bundle"
+
+msgid "Short Name is Unique"
+msgstr "Short Name is Unique"
+
+msgid "Days"
+msgstr "Days"
+
+msgid "Weeks"
+msgstr "Weeks"
+
+msgid "Months"
+msgstr "Months"
+
+msgid "Protected Categories"
+msgstr "Protected Categories"
+
+msgid "Select the WordPress categories that should be automatically protected by this bundle."
+msgstr "Select the WordPress categories that should be automatically protected by this bundle."
+
+msgid "Select Multiple Categories"
+msgstr "Select Multiple Categories"
+
+msgid "Save Bundle"
+msgstr "Save Bundle"
+
+msgid "Paid Bundle"
+msgstr "Paid Bundle"
+
+msgid "Products"
+msgstr "Products"
+
+msgid "Get purchase links"
+msgstr "Get purchase links"
+
+msgid "Free Bundle"
+msgstr "Free Bundle"
+
+msgid "No Subscribers"
+msgstr "No Subscribers"
+
+msgid "Edit Bundle"
+msgstr "Edit Bundle"
+
+msgid "Delete Bundle"
+msgstr "Delete Bundle"
+
+msgid "This bundle is currently being used and cannot be deleted"
+msgstr "This bundle is currently being used and cannot be deleted"
+
+msgid "Name / Subscribers"
+msgstr "Name / Subscribers"
+
+msgid "Purchase Links"
+msgstr "Purchase Links"
+
+msgid "No bundles"
+msgstr "No bundles"
+
+msgid "No bundles applied"
+msgstr "No bundles applied"
+
+msgid "Create Bundle"
+msgstr "Create Bundle"
+
+msgid "This feature is not available on your current plan"
+msgstr "This feature is not available on your current plan"
+
+msgid "By the member themselves through the <code>[MM_Member_Link]</code> SmartTag"
+msgstr "By the member themselves through the <code>[MM_Member_Link]</code> SmartTag"
+
+msgid "By an administrator through the Member Details &gt; Manage Access Rights page by clicking %sCancel Membership%s or %sPause Membership%s"
+msgstr "By an administrator through the Member Details &gt; Manage Access Rights page by clicking %sCancel Membership%s or %sPause Membership%s"
+
+msgid "Which cancellation method do you want to use?"
+msgstr "Which cancellation method do you want to use?"
+
+msgid "Hard Cancel"
+msgstr "Hard Cancel"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Captcha Settings"
+msgstr "Captcha Settings"
+
+msgid "Create a Free Account"
+msgstr "Create a Free Account"
+
+msgid "Access Existing Account"
+msgstr "Access Existing Account"
+
+msgid "Site Key"
+msgstr "Site Key"
+
+msgid "Secret Key"
+msgstr "Secret Key"
+
+msgid "Checkout Processing Message"
+msgstr "Checkout Processing Message"
+
+msgid "Paid Message"
+msgstr "Paid Message"
+
+msgid "Free Message"
+msgstr "Free Message"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "save settings before previewing changes"
+msgstr "save settings before previewing changes"
+
+msgid "Commission Options"
+msgstr "Commission Options"
+
+msgid "Enable commission on initial payment"
+msgstr "Enable commission on initial payment"
+
+msgid "Enable Rebill Commissions"
+msgstr "Enable Rebill Commissions"
+
+msgid "Use same commission as initial payment"
+msgstr "Use same commission as initial payment"
+
+msgid "Use the following commission on rebills"
+msgstr "Use the following commission on rebills"
+
+msgid "Flat Rate"
+msgstr "Flat Rate"
+
+msgid "Limit rebill commissions"
+msgstr "Limit rebill commissions"
+
+msgid "Limit to"
+msgstr "Limit to"
+
+msgid "rebill payments"
+msgstr "rebill payments"
+
+msgid "Refund Options"
+msgstr "Refund Options"
+
+msgid "Cancel commission when customer is refunded"
+msgstr "Cancel commission when customer is refunded"
+
+msgid "Save Commission Profile"
+msgstr "Save Commission Profile"
+
+msgid "Initial Commission"
+msgstr "Initial Commission"
+
+msgid "Rebill Commission"
+msgstr "Rebill Commission"
+
+msgid "Cancel Commissions"
+msgstr "Cancel Commissions"
+
+msgid "No commission profiles"
+msgstr "No commission profiles"
+
+msgid "Create Commission Profile"
+msgstr "Create Commission Profile"
+
+msgid "Content Protection Settings"
+msgstr "Content Protection Settings"
+
+msgid "Allow members with overdue memberships or bundles to access protected content"
+msgstr "Allow members with overdue memberships or bundles to access protected content"
+
+msgid "Content that is dripped to members becomes available at 12 AM. Based on the setting below this will happen at 12 AM server time or 12 AM local time. Local time is based on the current WordPress timezone setting of %s. You can change this setting on %sWordPress Settings > General > Timezone%s.%sWould you like content to be dripped at 12 AM server time or local time?"
+msgstr "Content that is dripped to members becomes available at 12 AM. Based on the setting below this will happen at 12 AM server time or 12 AM local time. Local time is based on the current WordPress timezone setting of %s. You can change this setting on %sWordPress Settings > General > Timezone%s.%sWould you like content to be dripped at 12 AM server time or local time?"
+
+msgid "Core Page CSS Settings"
+msgstr "Core Page CSS Settings"
+
+msgid "Use MemberMouse CSS on the following core pages"
+msgstr "Use MemberMouse CSS on the following core pages"
+
+msgid "Checkout %s Redeem Gift"
+msgstr "Checkout %s Redeem Gift"
+
+msgid "My Account"
+msgstr "My Account"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Forgot Password"
+msgstr "Forgot Password"
+
+msgid "Reset Password"
+msgstr "Reset Password"
+
+msgid "Select the countries customers can make purchases from below"
+msgstr "Select the countries customers can make purchases from below"
+
+msgid "Select Multiple Countries"
+msgstr "Select Multiple Countries"
+
+msgid "Select the default country to display to customers"
+msgstr "Select the default country to display to customers"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "Subscription Options"
+msgstr "Subscription Options"
+
+msgid "Apply discount to the first charge only"
+msgstr "Apply discount to the first charge only"
+
+msgid "Apply discount to all charges"
+msgstr "Apply discount to all charges"
+
+msgid "Restrictions"
+msgstr "Restrictions"
+
+msgid "Start Date"
+msgstr "Start Date"
+
+msgid "End Date"
+msgstr "End Date"
+
+msgid "Limit Quantity"
+msgstr "Limit Quantity"
+
+msgid "Valid Products"
+msgstr "Valid Products"
+
+msgid "Save Coupon"
+msgstr "Save Coupon"
+
+msgid "Used"
+msgstr "Used"
+
+msgid "Valid Dates"
+msgstr "Valid Dates"
+
+msgid "Product Restrictions"
+msgstr "Product Restrictions"
+
+msgid "Archive"
+msgstr "Archive"
+
+msgid "No coupons"
+msgstr "No coupons"
+
+msgid "Create Coupon"
+msgstr "Create Coupon"
+
+msgid "Show archived coupons"
+msgstr "Show archived coupons"
+
+msgid "Show expired coupons"
+msgstr "Show expired coupons"
+
+msgid "Show on My Account Page"
+msgstr "Show on My Account Page"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Save Custom Field"
+msgstr "Save Custom Field"
+
+msgid "Unable to create custom field"
+msgstr "Unable to create custom field"
+
+msgid "Show Form SmartTag"
+msgstr "Show Form SmartTag"
+
+msgid "My Account Page"
+msgstr "My Account Page"
+
+msgid "Form SmartTag"
+msgstr "Form SmartTag"
+
+msgid "Create Custom Field"
+msgstr "Create Custom Field"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "of"
+msgstr "of"
+
+msgid "pages"
+msgstr "pages"
+
+msgid "Show"
+msgstr "Show"
+
+msgid "per page"
+msgstr "per page"
+
+msgid "found"
+msgstr "found"
+
+msgid "Select the membership level or product MemberMouse should use if a customer visits the checkout page without specifying a specific item to purchase"
+msgstr "Select the membership level or product MemberMouse should use if a customer visits the checkout page without specifying a specific item to purchase"
+
+msgid "Membership Level"
+msgstr "Membership Level"
+
+msgid "Product"
+msgstr "Product"
+
+msgid "re changing the currency and you"
+msgstr "re changing the currency and you"
+
+msgid "Append the currency code after the amount"
+msgstr "Append the currency code after the amount"
+
+msgid "Sample format"
+msgstr "Sample format"
+
+msgid "incorrect format"
+msgstr "incorrect format"
+
+msgid "Just %s send us an email %s and let us know the %s name of your currency %s and how your currency should be formatted by sending us a sample %s formatted number %s"
+msgstr "Just %s send us an email %s and let us know the %s name of your currency %s and how your currency should be formatted by sending us a sample %s formatted number %s"
+
+msgid "Make sure the sample formatted number demonstrates the following"
+msgstr "Make sure the sample formatted number demonstrates the following"
+
+msgid "The currency symbol to use"
+msgstr "The currency symbol to use"
+
+msgid "Whether the currency symbol is at the beginning or the end"
+msgstr "Whether the currency symbol is at the beginning or the end"
+
+msgid "The punctuation mark to use for the thousands separator"
+msgstr "The punctuation mark to use for the thousands separator"
+
+msgid "The punctuation mark to use for the decimal point"
+msgstr "The punctuation mark to use for the decimal point"
+
+msgid "members get access to %s"
+msgstr "members get access to %s"
+
+msgid "on day"
+msgstr "on day"
+
+msgid "Revoke access"
+msgstr "Revoke access"
+
+msgid "Grant %s access to"
+msgstr "Grant %s access to"
+
+msgid "Post"
+msgstr "Post"
+
+msgid "Grant Access"
+msgstr "Grant Access"
+
+msgid "No dialog found"
+msgstr "No dialog found"
+
+msgid "View the drip content schedule for the following"
+msgstr "View the drip content schedule for the following"
+
+msgid "Copy an existing drip content schedule"
+msgstr "Copy an existing drip content schedule"
+
+msgid "copy"
+msgstr "copy"
+
+msgid "Overwrite existing schedule"
+msgstr "Overwrite existing schedule"
+
+msgid "There is currently no content protected by the selected access rights"
+msgstr "There is currently no content protected by the selected access rights"
+
+msgid "Expand All"
+msgstr "Expand All"
+
+msgid "Collapse All"
+msgstr "Collapse All"
+
+msgid "Access Rights"
+msgstr "Access Rights"
+
+msgid "Day"
+msgstr "Day"
+
+msgid "Content"
+msgstr "Content"
+
+msgid "and"
+msgstr "and"
+
+msgid "more"
+msgstr "more"
+
+msgid "Duplicate Subscription Settings"
+msgstr "Duplicate Subscription Settings"
+
+msgid "Allow members to have more than one of the same subscription active"
+msgstr "Allow members to have more than one of the same subscription active"
+
+msgid "Order#"
+msgstr "Order#"
+
+msgid "No duplicate subscriptions found."
+msgstr "No duplicate subscriptions found."
+
+msgid "This email service provider has no lists that can be subscribed to"
+msgstr "This email service provider has no lists that can be subscribed to"
+
+msgid "Bundle"
+msgstr "Bundle"
+
+msgid "Active List"
+msgstr "Active List"
+
+msgid "Canceled List"
+msgstr "Canceled List"
+
+msgid "Save Bundle Mapping"
+msgstr "Save Bundle Mapping"
+
+msgid "All bundles have been mapped."
+msgstr "All bundles have been mapped."
+
+msgid "Create Bundle Mapping"
+msgstr "Create Bundle Mapping"
+
+msgid "resetpassword\\"
+msgstr "resetpassword\\"
+
+msgid "Forgot Password Email"
+msgstr "Forgot Password Email"
+
+msgid "Body"
+msgstr "Body"
+
+msgid "Only the following SmartTags can be used here"
+msgstr "Only the following SmartTags can be used here"
+
+msgid "you must provide an ID"
+msgstr "you must provide an ID"
+
+msgid "Note: Only certain SmartTags can be used here"
+msgstr "Note: Only certain SmartTags can be used here"
+
+msgid "The following SmartTag is required"
+msgstr "The following SmartTag is required"
+
+msgid "Role"
+msgstr "Role"
+
+msgid "Employess with the %sSupport%s role will only be able to access the MemberMouse member management pages."
+msgstr "Employess with the %sSupport%s role will only be able to access the MemberMouse member management pages."
+
+msgid "Employess with the %sSales%s role will only be able to access the MemberMouse member management pages."
+msgstr "Employess with the %sSales%s role will only be able to access the MemberMouse member management pages."
+
+msgid "Employess with the %sProduct Manager%s role will only be able to access the MemberMouse product settings and member management pages.."
+msgstr "Employess with the %sProduct Manager%s role will only be able to access the MemberMouse product settings and member management pages.."
+
+msgid "Employess with the %sAnalyst%s role will only be able to access the MemberMouse reporting suite.."
+msgstr "Employess with the %sAnalyst%s role will only be able to access the MemberMouse reporting suite.."
+
+msgid "Display Name"
+msgstr "Display Name"
+
+msgid "Real Name"
+msgstr "Real Name"
+
+msgid "Phone"
+msgstr "Phone"
+
+msgid "Additional Permissions"
+msgstr "Additional Permissions"
+
+msgid "Allow this employee to export data"
+msgstr "Allow this employee to export data"
+
+msgid "Access Restrictions"
+msgstr "Access Restrictions"
+
+msgid "Allowed Membership Levels"
+msgstr "Allowed Membership Levels"
+
+msgid "Select Multiple Membership Levels"
+msgstr "Select Multiple Membership Levels"
+
+msgid "Save Employee"
+msgstr "Save Employee"
+
+msgid "The following invalid accounts were detected and have been deleted"
+msgstr "The following invalid accounts were detected and have been deleted"
+
+msgid "Create Employee"
+msgstr "Create Employee"
+
+msgid "The HTML for your webform will show up in a text box to the right. Just copy and paste this code to your site."
+msgstr "The HTML for your webform will show up in a text box to the right. Just copy and paste this code to your site."
+
+msgid "Username"
+msgstr "Username"
+
+msgid "First Name"
+msgstr "First Name"
+
+msgid "Last Name"
+msgstr "Last Name"
+
+msgid "Generate HTML"
+msgstr "Generate HTML"
+
+msgid "Member Homepage Settings"
+msgstr "Member Homepage Settings"
+
+msgid "When members login"
+msgstr "When members login"
+
+msgid "Redirect to a homepage specific to their membership level"
+msgstr "Redirect to a homepage specific to their membership level"
+
+msgid "Send them to the homepage associated with their membership level"
+msgstr "Send them to the homepage associated with their membership level"
+
+msgid "Send them to the default homepage associated with the WordPress site as defined %shere%s"
+msgstr "Send them to the default homepage associated with the WordPress site as defined %shere%s"
+
+msgid "Redirect to the default homepage associated with the WordPress site as defined %shere%s"
+msgstr "Redirect to the default homepage associated with the WordPress site as defined %shere%s"
+
+msgid "IMPORT RUNNING... PLEASE DO NOT REFRESH THIS PAGE"
+msgstr "IMPORT RUNNING... PLEASE DO NOT REFRESH THIS PAGE"
+
+msgid "Step 1: Download Import Template"
+msgstr "Step 1: Download Import Template"
+
+msgid "Download Import Template"
+msgstr "Download Import Template"
+
+msgid "Lookup IDs"
+msgstr "Lookup IDs"
+
+msgid "ISO Country Codes"
+msgstr "ISO Country Codes"
+
+msgid "Member Status IDs:"
+msgstr "Member Status IDs:"
+
+msgid "Step 2: Upload Import File"
+msgstr "Step 2: Upload Import File"
+
+msgid "From Computer"
+msgstr "From Computer"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "From URL"
+msgstr "From URL"
+
+msgid "Step 3: Configure Import Settings"
+msgstr "Step 3: Configure Import Settings"
+
+msgid "Import members as"
+msgstr "Import members as"
+
+msgid "Send welcome email to new members"
+msgstr "Send welcome email to new members"
+
+msgid "Step 4: Import Members"
+msgstr "Step 4: Import Members"
+
+msgid "Import Members"
+msgstr "Import Members"
+
+msgid "jQuery UI Options"
+msgstr "jQuery UI Options"
+
+msgid "Use MemberMouse jQuery UI on the front-end"
+msgstr "Use MemberMouse jQuery UI on the front-end"
+
+msgid "Limit Login Attempts"
+msgstr "Limit Login Attempts"
+
+msgid "MemberMouse integrates with a popular plugin for %slimiting login attempts%s written by %sJohan Eenfeldt%s."
+msgstr "MemberMouse integrates with a popular plugin for %slimiting login attempts%s written by %sJohan Eenfeldt%s."
+
+msgid "Plugin activated"
+msgstr "Plugin activated"
+
+msgid "Install Plugin"
+msgstr "Install Plugin"
+
+msgid "Login token lifespan must be greater than 0."
+msgstr "Login token lifespan must be greater than 0."
+
+msgid "Login Token Settings"
+msgstr "Login Token Settings"
+
+msgid "Login tokens are valid for %s days"
+msgstr "Login tokens are valid for %s days"
+
+msgid "Below is a login webform that can be included anywhere which allows your members to login from any location."
+msgstr "Below is a login webform that can be included anywhere which allows your members to login from any location."
+
+msgid "Just copy and paste the HTML code below"
+msgstr "Just copy and paste the HTML code below"
+
+msgid "Remember me"
+msgstr "Remember me"
+
+msgid "Initial Payment or One-Time Payment"
+msgstr "Initial Payment or One-Time Payment"
+
+msgid "Recurring Payment"
+msgstr "Recurring Payment"
+
+msgid "Refund"
+msgstr "Refund"
+
+msgid "No transactions found"
+msgstr "No transactions found"
+
+msgid "Transaction Types"
+msgstr "Transaction Types"
+
+msgid "Initial Payments"
+msgstr "Initial Payments"
+
+msgid "Recurring Payments"
+msgstr "Recurring Payments"
+
+msgid "Refunds"
+msgstr "Refunds"
+
+msgid "Coupons"
+msgstr "Coupons"
+
+msgid "Free coupons are not included in this list as no transaction is created when a free coupon is used"
+msgstr "Free coupons are not included in this list as no transaction is created when a free coupon is used"
+
+msgid "Sub-Affiliate ID"
+msgstr "Sub-Affiliate ID"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Advanced Search"
+msgstr "Advanced Search"
+
+msgid "Bundles"
+msgstr "Bundles"
+
+msgid "Registered"
+msgstr "Registered"
+
+msgid "Status Changed"
+msgstr "Status Changed"
+
+msgid "Engagement"
+msgstr "Engagement"
+
+msgid "No members found."
+msgstr "No members found."
+
+msgid "Create Member"
+msgstr "Create Member"
+
+msgid "Registration Date"
+msgstr "Registration Date"
+
+msgid "Membership Levels"
+msgstr "Membership Levels"
+
+msgid "Membership Status"
+msgstr "Membership Status"
+
+msgid "Custom Field 1"
+msgstr "Custom Field 1"
+
+msgid "Custom Field 2"
+msgstr "Custom Field 2"
+
+msgid "Show Members"
+msgstr "Show Members"
+
+msgid "Export Members"
+msgstr "Export Members"
+
+msgid "t want MemberMouse to set or change the member"
+msgstr "t want MemberMouse to set or change the member"
+
+msgid "Wordpress Role"
+msgstr "Wordpress Role"
+
+msgid "Membership Type"
+msgstr "Membership Type"
+
+msgid "productDescription"
+msgstr "productDescription"
+
+msgid "Paid membership levels can have multiple products associated with them which allows you to offer different pricing for the same membership. Select one or more products below to associate with this membership level."
+msgstr "Paid membership levels can have multiple products associated with them which allows you to offer different pricing for the same membership. Select one or more products below to associate with this membership level."
+
+msgid "Default Product"
+msgstr "Default Product"
+
+msgid "s also possible for customers to sign up for the membership directly in which case they"
+msgstr "s also possible for customers to sign up for the membership directly in which case they"
+
+msgid "Select a product"
+msgstr "Select a product"
+
+msgid "You must"
+msgstr "You must"
+
+msgid "create a new product"
+msgstr "create a new product"
+
+msgid "in order to associate it with this membership level"
+msgstr "in order to associate it with this membership level"
+
+msgid "Membership Level Expires"
+msgstr "Membership Level Expires"
+
+msgid "Expires After"
+msgstr "Expires After"
+
+msgid "Welcome Email"
+msgstr "Welcome Email"
+
+msgid "add employees"
+msgstr "add employees"
+
+msgid "Select the bundles that members with this membership level should automatically get access to."
+msgstr "Select the bundles that members with this membership level should automatically get access to."
+
+msgid "Select Multiple Bundles"
+msgstr "Select Multiple Bundles"
+
+msgid "Select the WordPress categories that should be automatically protected by this membership level."
+msgstr "Select the WordPress categories that should be automatically protected by this membership level."
+
+msgid "Save Membership Level"
+msgstr "Save Membership Level"
+
+msgid "Paid Membership Level"
+msgstr "Paid Membership Level"
+
+msgid "Free Membership Level"
+msgstr "Free Membership Level"
+
+msgid "Edit Membership Level"
+msgstr "Edit Membership Level"
+
+msgid "Delete Membership Level"
+msgstr "Delete Membership Level"
+
+msgid "This membership level is currently being used and cannot be deleted"
+msgstr "This membership level is currently being used and cannot be deleted"
+
+msgid "Create Membership Level"
+msgstr "Create Membership Level"
+
+msgid "Membership Snapshot"
+msgstr "Membership Snapshot"
+
+msgid "Free Members Today"
+msgstr "Free Members Today"
+
+msgid "Total Free Members"
+msgstr "Total Free Members"
+
+msgid "Paid Members Today"
+msgstr "Paid Members Today"
+
+msgid "Total Paid Members"
+msgstr "Total Paid Members"
+
+msgid "Bundle Snapshot"
+msgstr "Bundle Snapshot"
+
+msgid "Free Bundles Today"
+msgstr "Free Bundles Today"
+
+msgid "Total Free Bundles"
+msgstr "Total Free Bundles"
+
+msgid "Paid Bundles Today"
+msgstr "Paid Bundles Today"
+
+msgid "Total Paid Bundles"
+msgstr "Total Paid Bundles"
+
+msgid "Product Snapshot"
+msgstr "Product Snapshot"
+
+msgid "Retention Snapshot"
+msgstr "Retention Snapshot"
+
+msgid "Canceled Free Memberships"
+msgstr "Canceled Free Memberships"
+
+msgid "Canceled Paid Memberships"
+msgstr "Canceled Paid Memberships"
+
+msgid "Canceled Free Bundles"
+msgstr "Canceled Free Bundles"
+
+msgid "Canceled Paid Bundles"
+msgstr "Canceled Paid Bundles"
+
+msgid "Training Videos"
+msgstr "Training Videos"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Support Center"
+msgstr "Support Center"
+
+msgid "Contact Support"
+msgstr "Contact Support"
+
+msgid "Profit Alerts"
+msgstr "Profit Alerts"
+
+msgid "Learn more about the"
+msgstr "Learn more about the"
+
+msgid "Advanced Reporting Suite"
+msgstr "Advanced Reporting Suite"
+
+msgid "Earn 20% recurring commission with our"
+msgstr "Earn 20% recurring commission with our"
+
+msgid "Affiliate Program"
+msgstr "Affiliate Program"
+
+msgid "News"
+msgstr "News"
+
+msgid "MemberMouse Academy"
+msgstr "MemberMouse Academy"
+
+msgid "MemberMouse Version"
+msgstr "MemberMouse Version"
+
+msgid "Order Date"
+msgstr "Order Date"
+
+msgid "Invalid product ID %s"
+msgstr "Invalid product ID %s"
+
+msgid "Confirm"
+msgstr "Confirm"
+
+msgid "Use Different Card"
+msgstr "Use Different Card"
+
+msgid "1-Click Purchase Confirmation Settings"
+msgstr "1-Click Purchase Confirmation Settings"
+
+msgid "Learn More"
+msgstr "Learn More"
+
+msgid "Set the width and height for the 1-click purchase confirmation dialog below"
+msgstr "Set the width and height for the 1-click purchase confirmation dialog below"
+
+msgid "Width"
+msgstr "Width"
+
+msgid "Height"
+msgstr "Height"
+
+msgid "This payment service does not support the configured currency. "
+msgstr "This payment service does not support the configured currency. "
+
+msgid "To change the configured currency click "
+msgstr "To change the configured currency click "
+
+msgid "here"
+msgstr "here"
+
+msgid "With MemberMouse you can configure two types of payment methods: onsite and offsite. Onsite payment methods allow you to collect credit card information right from your site which means that customers can complete the entire checkout process without leaving your site. Authorize.net and Stripe are examples of onsite payment methods."
+msgstr "With MemberMouse you can configure two types of payment methods: onsite and offsite. Onsite payment methods allow you to collect credit card information right from your site which means that customers can complete the entire checkout process without leaving your site. Authorize.net and Stripe are examples of onsite payment methods."
+
+msgid "IMPORTANT"
+msgstr "IMPORTANT"
+
+msgid "Run Diagnostic"
+msgstr "Run Diagnostic"
+
+msgid "Activate the MemberMouse"
+msgstr "Activate the MemberMouse"
+
+msgid "Onsite Payment Method"
+msgstr "Onsite Payment Method"
+
+msgid "Currently the test payment service is enabled and configured to always be used as the onsite payment method. While the test payment service is configured this way the onsite payment method activated in this section will not be used."
+msgstr "Currently the test payment service is enabled and configured to always be used as the onsite payment method. While the test payment service is configured this way the onsite payment method activated in this section will not be used."
+
+msgid "None"
+msgstr "None"
+
+msgid "Save Payment Methods"
+msgstr "Save Payment Methods"
+
+msgid "re working within WordPress"
+msgstr "re working within WordPress"
+
+msgid "This is where the PHP Interface comes in."
+msgstr "This is where the PHP Interface comes in."
+
+msgid "View Documentation"
+msgstr "View Documentation"
+
+msgid "Preview Settings Bar Options"
+msgstr "Preview Settings Bar Options"
+
+msgid "Show Preview Settings Bar"
+msgstr "Show Preview Settings Bar"
+
+msgid "Billing Description"
+msgstr "Billing Description"
+
+msgid "Attributes"
+msgstr "Attributes"
+
+msgid "Associated Access"
+msgstr "Associated Access"
+
+msgid "Create Product"
+msgstr "Create Product"
+
+msgid "s an unused balance on the member"
+msgstr "s an unused balance on the member"
+
+msgid "The member must have an active subscription associated with their current membership"
+msgstr "The member must have an active subscription associated with their current membership"
+
+msgid "The member must be switching to another membership that has a subscription associated with it"
+msgstr "The member must be switching to another membership that has a subscription associated with it"
+
+msgid "Enable proration on membership upgrade/downgrade"
+msgstr "Enable proration on membership upgrade/downgrade"
+
+msgid "Purchase Link Options"
+msgstr "Purchase Link Options"
+
+msgid "In MemberMouse there are two purchase link styles that can be used: %sReference Links%s and %sExplicit Links%s"
+msgstr "In MemberMouse there are two purchase link styles that can be used: %sReference Links%s and %sExplicit Links%s"
+
+msgid "Select the style you want to use below"
+msgstr "Select the style you want to use below"
+
+msgid "Reference Links"
+msgstr "Reference Links"
+
+msgid "recommended"
+msgstr "recommended"
+
+msgid "This style involves passing a 6-digit alphanumeric key that represents either a product or a membership level as follows"
+msgstr "This style involves passing a 6-digit alphanumeric key that represents either a product or a membership level as follows"
+
+msgid "Increase security by disabling support for explicit links"
+msgstr "Increase security by disabling support for explicit links"
+
+msgid "This style involves passing the ID of a product or membership level to the checkout page as follows"
+msgstr "This style involves passing the ID of a product or membership level to the checkout page as follows"
+
+msgid "email"
+msgstr "email"
+
+msgid "Congratulations! A new member has just signed up."
+msgstr "Congratulations! A new member has just signed up."
+
+msgid "Here are their details"
+msgstr "Here are their details"
+
+msgid "Thank you for your purchase!"
+msgstr "Thank you for your purchase!"
+
+msgid "Here are your order details"
+msgstr "Here are your order details"
+
+msgid "Billing Address"
+msgstr "Billing Address"
+
+msgid "Shipping Address"
+msgstr "Shipping Address"
+
+msgid "shippingMethod"
+msgstr "shippingMethod"
+
+msgid "Your Account Is Past Due"
+msgstr "Your Account Is Past Due"
+
+msgid "Your recent payment was declined."
+msgstr "Your recent payment was declined."
+
+msgid "Please update your billing information to reactivate your account."
+msgstr "Please update your billing information to reactivate your account."
+
+msgid "Thank you for your prompt attention to this matter."
+msgstr "Thank you for your prompt attention to this matter."
+
+msgid "When the following event occurs"
+msgstr "When the following event occurs"
+
+msgid "When the product is"
+msgstr "When the product is"
+
+msgid "Any Product"
+msgstr "Any Product"
+
+msgid "When membership level is"
+msgstr "When membership level is"
+
+msgid "Any Membership Level"
+msgstr "Any Membership Level"
+
+msgid "When bundle is"
+msgstr "When bundle is"
+
+msgid "Any Bundle"
+msgstr "Any Bundle"
+
+msgid "When bundle status is"
+msgstr "When bundle status is"
+
+msgid "Any Status"
+msgstr "Any Status"
+
+msgid "Perform the following action"
+msgstr "Perform the following action"
+
+msgid "Enter the URL of your custom script below"
+msgstr "Enter the URL of your custom script below"
+
+msgid "Download the sample scripts below to see how to respond to different events and access the data passed."
+msgstr "Download the sample scripts below to see how to respond to different events and access the data passed."
+
+msgid "Member Notification Script"
+msgstr "Member Notification Script"
+
+msgid "Bundle Notification Script"
+msgstr "Bundle Notification Script"
+
+msgid "Payment Notification Script"
+msgstr "Payment Notification Script"
+
+msgid "Affiliate Notification Script"
+msgstr "Affiliate Notification Script"
+
+msgid "Mailbox"
+msgstr "Mailbox"
+
+msgid "Additional Information"
+msgstr "Additional Information"
+
+msgid "only with payment and affiliate events"
+msgstr "only with payment and affiliate events"
+
+msgid "CC"
+msgstr "CC"
+
+msgid "Insert template"
+msgstr "Insert template"
+
+msgid "Member Added"
+msgstr "Member Added"
+
+msgid "Order Receipt"
+msgstr "Order Receipt"
+
+msgid "Account Overdue Notice"
+msgstr "Account Overdue Notice"
+
+msgid "Save Push Notification"
+msgstr "Save Push Notification"
+
+msgid "Event"
+msgstr "Event"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Send Test Notification"
+msgstr "Send Test Notification"
+
+msgid "Activate this push notification in order to send a test"
+msgstr "Activate this push notification in order to send a test"
+
+msgid "No push notifications configured."
+msgstr "No push notifications configured."
+
+msgid "Repair Core Pages"
+msgstr "Repair Core Pages"
+
+msgid "Below is a list of default core pages that are associated with WordPress pages that no longer exist"
+msgstr "Below is a list of default core pages that are associated with WordPress pages that no longer exist"
+
+msgid "Clicking on the %sRepair Core Pages%s button below will repair the core pages table by reinstalling the default core pages."
+msgstr "Clicking on the %sRepair Core Pages%s button below will repair the core pages table by reinstalling the default core pages."
+
+msgid "There are no corrupt core pages."
+msgstr "There are no corrupt core pages."
+
+msgid "1. Unable to automatically repair the cache permissions. Please manually change the permissions on the following directory and all files contained within to 777 using an FTP/SSH client. "
+msgstr "1. Unable to automatically repair the cache permissions. Please manually change the permissions on the following directory and all files contained within to 777 using an FTP/SSH client. "
+
+msgid "Cache directory location"
+msgstr "Cache directory location"
+
+msgid "1. Cache directory permissions modified successfully"
+msgstr "1. Cache directory permissions modified successfully"
+
+msgid "2. Refreshing cache"
+msgstr "2. Refreshing cache"
+
+msgid "Please wait"
+msgstr "Please wait"
+
+msgid "Cache refreshed successfully"
+msgstr "Cache refreshed successfully"
+
+msgid "3. Repairing database indexes"
+msgstr "3. Repairing database indexes"
+
+msgid "DONE"
+msgstr "DONE"
+
+msgid "Repair MemberMouse"
+msgstr "Repair MemberMouse"
+
+msgid "The repair option will restore all MemberMouse files to their default state. This process only affects the files related to the MemberMouse application; No membership or order data will be affected. "
+msgstr "The repair option will restore all MemberMouse files to their default state. This process only affects the files related to the MemberMouse application; No membership or order data will be affected. "
+
+msgid "Begin Repair"
+msgstr "Begin Repair"
+
+msgid "Step One - Retrieving source archive from MemberMouse"
+msgstr "Step One - Retrieving source archive from MemberMouse"
+
+msgid "Step Two - Replacing files"
+msgstr "Step Two - Replacing files"
+
+msgid "Enabling %sSafe Mode%s creates a \\"
+msgstr "Enabling %sSafe Mode%s creates a \\"
+
+msgid "Disable Safe Mode"
+msgstr "Disable Safe Mode"
+
+msgid "Enable Safe Mode"
+msgstr "Enable Safe Mode"
+
+msgid "Active Plugins"
+msgstr "Active Plugins"
+
+msgid "Active Theme"
+msgstr "Active Theme"
+
+msgid "Saved Plugins"
+msgstr "Saved Plugins"
+
+msgid "Safe Mode Log"
+msgstr "Safe Mode Log"
+
+msgid "clear log"
+msgstr "clear log"
+
+msgid "Rate"
+msgstr "Rate"
+
+msgid "Save Shipping Method"
+msgstr "Save Shipping Method"
+
+msgid "Create Shipping Method"
+msgstr "Create Shipping Method"
+
+msgid "SmartTag Version"
+msgstr "SmartTag Version"
+
+msgid "SmartTags"
+msgstr "SmartTags"
+
+msgid "re instructing MemberMouse to prepopulate checkout forms with the data entered. This can be very helpful when you"
+msgstr "re instructing MemberMouse to prepopulate checkout forms with the data entered. This can be very helpful when you"
+
+msgid "Use Test Data"
+msgstr "Use Test Data"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Back to member details"
+msgstr "Back to member details"
+
+msgid "General"
+msgstr "General"
+
+msgid "Subscriptions"
+msgstr "Subscriptions"
+
+msgid "Transactions"
+msgstr "Transactions"
+
+msgid "Gifts"
+msgstr "Gifts"
+
+msgid "Activity Log"
+msgstr "Activity Log"
+
+msgid "Custom Fields"
+msgstr "Custom Fields"
+
+msgid "Manage User-Defined Pages"
+msgstr "Manage User-Defined Pages"
+
+msgid "Lime Light Mappings"
+msgstr "Lime Light Mappings"
+
+msgid "Product Mappings"
+msgstr "Product Mappings"
+
+msgid "Shipping Method Mappings"
+msgstr "Shipping Method Mappings"
+
+msgid "Drip Content Schedule"
+msgstr "Drip Content Schedule"
+
+msgid "Countries"
+msgstr "Countries"
+
+msgid "Shipping Methods"
+msgstr "Shipping Methods"
+
+msgid "Other Settings"
+msgstr "Other Settings"
+
+msgid "Payment Methods"
+msgstr "Payment Methods"
+
+msgid "Test Data"
+msgstr "Test Data"
+
+msgid "Cancellation Method"
+msgstr "Cancellation Method"
+
+msgid "Email Integration"
+msgstr "Email Integration"
+
+msgid "Email Templates"
+msgstr "Email Templates"
+
+msgid "Affiliate Integration"
+msgstr "Affiliate Integration"
+
+msgid "Commission Profiles"
+msgstr "Commission Profiles"
+
+msgid "Tracking Settings"
+msgstr "Tracking Settings"
+
+msgid "Push Notifications"
+msgstr "Push Notifications"
+
+msgid "API Credentials"
+msgstr "API Credentials"
+
+msgid "WordPress Hooks/Filters"
+msgstr "WordPress Hooks/Filters"
+
+msgid "PHP Interface"
+msgstr "PHP Interface"
+
+msgid "PayPal IPN Log"
+msgstr "PayPal IPN Log"
+
+msgid "Free Member Webform"
+msgstr "Free Member Webform"
+
+msgid "Login Webform"
+msgstr "Login Webform"
+
+msgid "Employees"
+msgstr "Employees"
+
+msgid "Extensions"
+msgstr "Extensions"
+
+msgid "Safe Mode"
+msgstr "Safe Mode"
+
+msgid "Duplicate Subscriptions"
+msgstr "Duplicate Subscriptions"
+
+msgid "Manage Install"
+msgstr "Manage Install"
+
+msgid "Version History"
+msgstr "Version History"
+
+msgid "Repair Install"
+msgstr "Repair Install"
+
+msgid "Diagnostic Log"
+msgstr "Diagnostic Log"
+
+msgid "WordPress Content Options"
+msgstr "WordPress Content Options"
+
+msgid "Disable WordPress auto-paragraph functionality on MemberMouse core pages"
+msgstr "Disable WordPress auto-paragraph functionality on MemberMouse core pages"
+
+msgid "WordPress Hooks/Filters Overview"
+msgstr "WordPress Hooks/Filters Overview"
+
+msgid "hook into"
+msgstr "hook into"
+
+msgid "View Hooks Documentation"
+msgstr "View Hooks Documentation"
+
+msgid "View Filters Documentation"
+msgstr "View Filters Documentation"
+
+msgid "WordPress Login Settings"
+msgstr "WordPress Login Settings"
+
+msgid "Use the MemberMouse Login Page as the Default"
+msgstr "Use the MemberMouse Login Page as the Default"
+
+msgid "Use the MemberMouse Reset Password Page as the Default"
+msgstr "Use the MemberMouse Reset Password Page as the Default"
+
+msgid "Hide the admin bar for new members"
+msgstr "Hide the admin bar for new members"
+
+msgid "Allow members to change their username"
+msgstr "Allow members to change their username"
+
+msgid "Hide Protected Menu Items"
+msgstr "Hide Protected Menu Items"
+
+msgid "Show Login/Logout Link"
+msgstr "Show Login/Logout Link"
+
+msgid "Error saving data"
+msgstr "Error saving data"
+
+msgid "Data saved successfully"
+msgstr "Data saved successfully"
+
+msgid "Error saving data: you must be logged in"
+msgstr "Error saving data: you must be logged in"
+
+msgid "Member ID is required"
+msgstr "Member ID is required"
+
+msgid "Invalid Member ID %s"
+msgstr "Invalid Member ID %s"
+
+msgid "Only valid members can be forgotten"
+msgstr "Only valid members can be forgotten"
+
+msgid "An error was encountered when attempting to cancel the user's membership"
+msgstr "An error was encountered when attempting to cancel the user's membership"
+
+msgid "An error was encountered when attempting to revoke access to bundle id %s"
+msgstr "An error was encountered when attempting to revoke access to bundle id %s"
+
+msgid "removed"
+msgstr "removed"
+
+msgid "order information"
+msgstr "order information"
+
+msgid "order country"
+msgstr "order country"
+
+msgid "stored address information"
+msgstr "stored address information"
+
+msgid "stored address country"
+msgstr "stored address country"
+
+msgid "user account information"
+msgstr "user account information"
+
+msgid "The following operations succeeded"
+msgstr "The following operations succeeded"
+
+msgid "The following operations failed"
+msgstr "The following operations failed"
+
+msgid "Forget Member Settings"
+msgstr "Forget Member Settings"
+
+msgid "Email Address"
+msgstr "Email Address"
+
+msgid "First Name, Last Name, Billing %s shipping address information (except country)"
+msgstr "First Name, Last Name, Billing %s shipping address information (except country)"
+
+msgid "Billing %s shipping country"
+msgstr "Billing %s shipping country"
+
+msgid "Billing %s shipping address information stored with previous orders (except country)"
+msgstr "Billing %s shipping address information stored with previous orders (except country)"
+
+msgid "Billing %s shipping country stored with previous orders"
+msgstr "Billing %s shipping country stored with previous orders"
+
+msgid "hash_hmac PHP function and sha256 algorithm are not available on your server. Contact your hosting provide to address this"
+msgstr "hash_hmac PHP function and sha256 algorithm are not available on your server. Contact your hosting provide to address this"
+
+msgid "The sha256 algorithm is not available on your server. Contact your hosting provide to address this"
+msgstr "The sha256 algorithm is not available on your server. Contact your hosting provide to address this"
+
+msgid "Knowledge Base"
+msgstr "Knowledge Base"
+
+msgid "Both Initial Sales and Rebills"
+msgstr "Both Initial Sales and Rebills"
+
+msgid "Initial Sales Only"
+msgstr "Initial Sales Only"
+
+msgid "Rebills Only"
+msgstr "Rebills Only"
+
+
+msgid "No data was returned"
+msgstr "No data was returned"
